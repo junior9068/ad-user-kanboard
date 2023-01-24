@@ -18,5 +18,7 @@ pip install kanboard
 ## Setar variáveis de ambiente:
 
 export user_kanboard=[USUÁRIO]
+
 export token_kanboard=[TOKEN]
+
 export URL_kanboard=[URL]
