@@ -22,3 +22,10 @@ export user_kanboard=[USUÁRIO]
 export token_kanboard=[TOKEN]
 
 export URL_kanboard=[URL]
+
+
+# Documentação
+
+https://docs.kanboard.org/v1/api/
+
+https://github.com/kanboard/python-api-client
